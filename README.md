@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Taraneh Mahdavi
 
-<!--
-**TaranehMahdavi/TaranehMahdavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student  
+🤖 AI & Robotics enthusiast  
+🧠 Currently focusing on **Natural Language Processing (NLP)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Learning Path
+
+- 🐍 Practicing and mastering **Python**
+- 💬 Working in the field of **Natural Language Processing**
+
+---
+
+## 🎯 Interests
+
+- Artificial Intelligence  
+- Natural Language Processing  
+- Robotics  
+- Human–Computer Interaction (HCI)  
+- Cognitive Computing  
+
+---
+
+## 📍 About Me
+
+I am a passionate Computer Engineering student with a strong interest in Artificial Intelligence and Robotics.  
+Currently, my main focus is on Natural Language Processing (NLP), where I explore how machines can understand, interpret, and generate human language.
+
+I'm driven by curiosity and committed to building smart technologies that matter.
